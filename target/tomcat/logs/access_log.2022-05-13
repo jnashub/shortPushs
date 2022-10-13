@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:39:02 +0000] "GET /testmvc HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:39:07 +0000] "GET /testmvc/ HTTP/1.1" 200 505 http-bio-8080-exec-4 1388
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:39:17 +0000] "GET /testmvc/resources/js/sample.js HTTP/1.1" 500 3947 http-bio-8080-exec-6 754
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:39:17 +0000] "GET /testmvc/resources/css/style.css HTTP/1.1" 500 3947 http-bio-8080-exec-5 902
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:39:21 +0000] "GET /testmvc/resources/images/me.jpg HTTP/1.1" 500 3947 http-bio-8080-exec-7 181
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:39:32 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:43:22 +0000] "GET /testmvc/hello HTTP/1.1" 200 473 http-bio-8080-exec-2 6099
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:44:26 +0000] "POST /welcome HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:46:06 +0000] "GET /testmvc/hello HTTP/1.1" 200 473 http-bio-8080-exec-2 552
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:46:23 +0000] "POST /welcome HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:49:36 +0000] "POST /welcome HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [13/May/2022:11:50:24 +0000] "POST /welcome HTTP/1.1" 404 - http-bio-8080-exec-7 0

@@ -1,0 +1,13 @@
+<nav class="navbar navbar-default bg-dark navbar-dark">
+    <ul class="nav navbar-expand-sm navbar-dark navbar-left">
+        <a href="/toHome" class="navbar-brand">VitaGros Pharma</a>
+        <li class="nav-item"><a class="nav-link" href="/toHome"><span style="color:white">Home</span></a></li>
+        <li class="nav-item"><a class="nav-link" href="/toOwnerSearchPage"><span style="color:white">Search Owner</span></a>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="http://www.sarayatechsolutions.com"><span style="color:white">SarayaTech</span></a>
+        </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item"><a class="nav-link" href="toLogin">Logout</a></li>
+    </ul>
+</nav>

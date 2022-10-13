@@ -1,0 +1,5 @@
+com\saraya\models\User.class
+com\saraya\controller\LoginController.class
+com\saraya\service\Service.class
+com\saraya\controller\ManageController.class
+com\saraya\controller\HomeController.class
